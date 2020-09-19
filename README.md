@@ -15,9 +15,8 @@
 ## 导航
 
 - 本Repo地址: [hptc-shichendahai][1]
-- [Slack Channel][5]
+- Slack Channel: [#shichendahai][5]
 - 本次挑战赛[主页][2]、[细则][3]
-
 - [高性能 TiDB 课程][4]
 - 【High Performance TiDB】Lesson 02：对 TiDB 进行基准测试 : [Part I: Sysbench][6] (14:12处开始)
 
