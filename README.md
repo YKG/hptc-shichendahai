@@ -24,7 +24,7 @@
 
 [1]: https://github.com/YKG/hptc-shichendahai
 [2]: https://pingcap.com/community-cn/high-performance-tidb-challenge/
-[3]: https://pingcap.com/community-cn/high-performance-tidb-challenge/
+[3]: https://github.com/pingcap/community/blob/master/challenge-programs/high-performance-tidb-challenge-cn.md
 [4]: https://space.bilibili.com/86485707/channel/detail?cid=145009
 [5]: https://tidbcommunity.slack.com/archives/C01AW0Z9PLM
 [6]: https://www.bilibili.com/video/BV1TD4y1m7AF
