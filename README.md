@@ -8,17 +8,18 @@
 
 ## 队伍
 
+- YKG
 - liufuyang
 - sheepray
-- YKG
 
 ## 导航
 
 - 本Repo地址: [hptc-shichendahai][1]
 - Slack Channel: [#shichendahai][5]
+- [Google Meeting Room](https://meet.google.com/twe-jsyt-iei)
 - 本次挑战赛[主页][2]、[细则][3]
 - [高性能 TiDB 课程][4]
-- 【High Performance TiDB】Lesson 02：对 TiDB 进行基准测试 : [Part I: Sysbench][6] (14:12处开始)
+-【High Performance TiDB】Lesson 02：对 TiDB 进行基准测试 : [Part I: Sysbench][6] (14:12处开始)
 
 
 [1]: https://github.com/YKG/hptc-shichendahai
