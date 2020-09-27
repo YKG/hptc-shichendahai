@@ -8,9 +8,10 @@
 
 ## 队伍
 
-- YKG
-- liufuyang
-- sheepray
+- [YKG](https://github.com/YKG)
+- [xiaodong-ji](https://github.com/xiaodong-ji)
+- [liufuyang](https://github.com/liufuyang)
+- [sheepray](https://github.com/sheepray)
 
 ## 导航
 
